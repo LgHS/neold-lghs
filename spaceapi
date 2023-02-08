@@ -1,0 +1,28 @@
+{
+ "api": "0.13",
+ "space": "Liège HackerSpace",
+ "logo": "https://lghs.be/favicon-194x194.png",
+ "url": "https://lghs.be/",
+ "address": "Quai de la Dérivation 54, 4020 Liège BELGIUM",
+ "location": {
+  "lon": 5.59001,
+  "lat": 50.64189
+ },
+ "state": {
+  "open": true,
+  "message": "The API show only open for public"
+ },
+ "contact": {
+  "email": "ping@lghs.be",
+  "twitter": "@LgHackerSpace",
+  "issue_mail": "infra@lghs.be",
+  "phone": "+32 4 287 32 26"
+ },
+ "issue_report_channels": [
+  "issue_mail"
+ ],
+ "projects": [
+  "https://wiki.liegehacker.space/",
+  "https://github.com/LgHS"
+ ]
+}
